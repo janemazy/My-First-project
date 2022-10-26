@@ -1,0 +1,196 @@
+body,
+html {
+  margin: 0px;
+  padding: 0px;
+}
+.wrapper {
+  overflow: hidden;
+  padding-bottom: 120px;
+}
+.wrapper .btn {
+  background-color: #3bb75e;
+  border: none;
+  border-radius: 0.2rem;
+}
+.wrapper .bold {
+  font-weight: 600 !important;
+}
+.wrapper .choose {
+  white-space: normal;
+  width: 500px;
+}
+.wrapper .company {
+  white-space: normal;
+  width: 500px;
+}
+.wrapper .suite {
+  margin-top: 56px;
+  padding-top: 150px;
+  padding-bottom: 200px;
+  background-color: #eaf6fc;
+}
+.wrapper .suite h1 {
+  font-size: 45px;
+}
+.wrapper .custom {
+  margin-bottom: 200px;
+  padding-top: 150px;
+}
+.wrapper .custom .love {
+  font-size: 20px;
+  padding-top: 20px;
+}
+.wrapper .custom .well {
+  font-size: 2.4rem;
+}
+.wrapper .custom .but .high {
+  color: #3bb75e;
+}
+.wrapper .product {
+  background-color: #eaf6fc;
+}
+.wrapper .product h2 {
+  font-size: 45px;
+  padding-top: 150px;
+}
+.wrapper .product .what {
+  font-size: 1.35rem;
+  padding-bottom: 100px;
+}
+.wrapper .product .acct {
+  padding-bottom: 90px;
+}
+.wrapper .experience {
+  padding-bottom: 200px;
+  padding-top: 250px;
+}
+.wrapper .experience .pay {
+  font-size: 2.4rem;
+}
+.wrapper .experience .give {
+  font-size: 1.2rem;
+}
+.wrapper .experience ul {
+  font-size: 500;
+}
+.wrapper .experience .but .high {
+  color: #3bb75e;
+}
+.wrapper .experience .enjoy {
+  font-weight: 700;
+  font-size: xx-large;
+}
+.wrapper .experience .route {
+  letter-spacing: 0.03cm;
+}
+.wrapper .major h2 {
+  font-size: 45px;
+}
+.wrapper .fraud video {
+  object-fit: contain;
+}
+
+.wrapper .fraud .report {
+  font-size: xx-large;
+  font-weight: 700;
+}
+.wrapper .fraud .detect {
+  font-size: xx-large;
+  font-weight: 700;
+  padding-top: 40px;
+}
+.wrapper .verify {
+  padding-top: 180px;
+  padding-bottom: 250px;
+}
+.wrapper .verify h3 {
+  font-size: 35px;
+}
+.wrapper .checkout h3 {
+  font-size: 35px;
+}
+.wrapper .checkout p {
+  font-size: 1.08rem;
+}
+.wrapper .user {
+  padding-top: 80px;
+  padding-bottom: 100px;
+}
+.wrapper .user h3 {
+  font-size: 35px;
+}
+.wrapper .pattern {
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+.wrapper .pattern h3 {
+  font-size: 35px;
+  padding-top: 110px;
+}
+.wrapper .move {
+  padding-bottom: 300px;
+}
+.wrapper .move h3 {
+  font-size: 35px;
+}
+.wrapper .move p {
+  font-size: 1.2rem;
+}
+.wrapper .growth {
+  padding-bottom: 100px;
+}
+.wrapper .growth h2 {
+  font-size: 45px;
+}
+.wrapper .engineer h2 {
+  font-size: 45px;
+}
+.wrapper .engineer .nail {
+  background-image: url("../images/nails.jpg");
+}
+.wrapper .customers {
+  padding-bottom: 250px;
+}
+.wrapper .customers h2 {
+  font-size: 45px;
+}
+.wrapper .customers p {
+  padding-bottom: 100px;
+}
+.wrapper .nigeria {
+  padding-bottom: 300px;
+}
+.wrapper .nigeria .high {
+  color: #3bb75e;
+}
+.wrapper .guardian {
+  padding-bottom: 300px;
+}
+.wrapper .try {
+  padding-bottom: 150px;
+}
+.wrapper .try button {
+  background-color: #3bb75e;
+  border: none;
+  border-radius: 0.2rem;
+  height: 50px;
+  width: 220px;
+}
+.wrapper .try p {
+  font-size: 1.2rem;
+}
+.wrapper .try h3 {
+  font-size: 2.7rem;
+}
+.wrapper .try .ton {
+  justify-content: flex-end;
+}
+.wrapper .about {
+  padding-bottom: 90px;
+}
+.wrapper .about ul {
+  list-style-type: none;
+}
+.wrapper .footer ul {
+  list-style-type: none;
+}

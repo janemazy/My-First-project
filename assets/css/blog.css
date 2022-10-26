@@ -1,0 +1,95 @@
+body,
+html {
+  margin: 0px;
+  padding: 0px;
+}
+.wrapper .btn {
+  background-color: #3bb75e;
+  border: none;
+  border-radius: 0.2rem;
+}
+.wrapper .pay {
+  background-color: #ecf6fb;
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+.wrapper .pay p {
+  font-size: 1.09rem;
+}
+.wrapper .all ul {
+  font-size: 0.8rem;
+  letter-spacing: 0.5px;
+}
+.wrapper .snap {
+  padding-bottom: 70px;
+}
+.wrapper .snap h3 {
+  font-size: 35px;
+}
+.wrapper .snap p {
+  font-size: 1.4rem;
+}
+.wrapper .prefer {
+  padding-bottom: 70px;
+}
+.wrapper .prefer h3 {
+  font-size: 35px;
+}
+.wrapper .prefer p {
+  font-size: 1.4rem;
+}
+.wrapper .south {
+  padding-bottom: 70px;
+}
+.wrapper .south h3 {
+  font-size: 35px;
+}
+.wrapper .south p {
+  font-size: 1.4rem;
+}
+.wrapper .season {
+  padding-bottom: 70px;
+}
+.wrapper .season h3 {
+  font-size: 35px;
+}
+.wrapper .season p {
+  font-size: 1.4rem;
+}
+.wrapper .valentine {
+  padding-bottom: 70px;
+}
+.wrapper .valentine h3 {
+  font-size: 35px;
+}
+.wrapper .valentine p {
+  font-size: 1.4rem;
+}
+.wrapper .shop {
+  padding-bottom: 70px;
+}
+.wrapper .shop h3 {
+  font-size: 35px;
+}
+.wrapper .shop p {
+  font-size: 1.4rem;
+}
+.wrapper .pagination {
+  padding-bottom: 200px;
+}
+.wrapper .get .container {
+  background-color: #ecf6fb;
+}
+.wrapper .get {
+  padding: 70px;
+}
+.wrapper .get .row {
+  padding-bottom: 80px;
+}
+.wrapper .get h3 {
+  font-size: 35px;
+  padding-top: 80px;
+}
+.wrapper .get p {
+  font-size: 1.07rem;
+}
