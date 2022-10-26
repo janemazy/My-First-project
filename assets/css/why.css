@@ -1,0 +1,205 @@
+body,
+html {
+  padding: 0px;
+  margin: 0px;
+}
+.wrapper {
+  overflow: hidden;
+}
+.wrapper .btn {
+  background-color: #3bb75e;
+}
+.wrapper .love {
+  margin-top: 56px;
+  padding-top: 60px;
+  padding-bottom: 90px;
+  background-color: #eaf6fc;
+}
+.wrapper .love h1 {
+  font-size: 50px;
+}
+.wrapper .bold {
+  font-weight: 600 !important;
+}
+.wrapper .choose {
+  white-space: normal;
+  width: 500px;
+}
+.wrapper .company {
+  white-space: normal;
+  width: 500px;
+}
+.wrapper .start {
+  padding-bottom: 200px;
+  padding-top: 140px;
+}
+.wrapper .start h3 {
+  font-size: 35px;
+}
+.wrapper .pricing {
+  margin-bottom: 200px;
+}
+.wrapper .pricing h3 {
+  font-size: 35px;
+}
+.wrapper .pricing .see .our {
+  color: #3bb75e;
+}
+.wrapper .experience {
+  padding-bottom: 200px;
+}
+.wrapper .experience .pay {
+  font-size: 2.4rem;
+}
+.wrapper .experience .give {
+  font-size: 1.2rem;
+}
+.wrapper .experience ul {
+  font-size: 500;
+}
+.wrapper .experience .but .high {
+  color: #3bb75e;
+}
+.wrapper .experience .enjoy {
+  font-weight: 700;
+  font-size: xx-large;
+}
+.wrapper .experience .route {
+  letter-spacing: 0.03cm;
+}
+.wrapper .rates {
+  padding-bottom: 180px;
+}
+.wrapper .rates h3 {
+  font-size: 35px;
+}
+.wrapper .rates .high {
+  color: #3bb75e;
+}
+.wrapper .fraud video {
+  object-fit: contain;
+}
+
+.wrapper .fraud .report {
+  font-size: xx-large;
+  font-weight: 700;
+}
+.wrapper .fraud .detect {
+  font-size: xx-large;
+  font-weight: 700;
+}
+.wrapper .custom {
+  margin-bottom: 200px;
+}
+.wrapper .custom .lovee {
+  font-size: 20px;
+  padding-top: 20px;
+}
+.wrapper .custom .well {
+  font-size: 2.4rem;
+}
+.wrapper .custom .but .high {
+  color: #3bb75e;
+}
+.wrapper .under h3 {
+  font-size: 35px;
+}
+.wrapper .under p {
+  font-size: 1.05rem;
+}
+.wrapper .under ul {
+  font-weight: 600;
+}
+.wrapper .hours {
+  padding-bottom: 120px;
+}
+.wrapper .hours h3 {
+  font-size: 35px;
+}
+.wrapper .hours p {
+  font-size: 1.07rem;
+}
+.wrapper .world {
+  padding-bottom: 120px;
+}
+.wrapper .world h3 {
+  font-size: 35px;
+}
+.wrapper .world p {
+  font-size: 1.08rem;
+}
+.wrapper .attentive {
+  padding-bottom: 300px;
+}
+.wrapper .attentive h3 {
+  font-size: 35px;
+}
+.wrapper .attentive p {
+  font-size: 1.08rem;
+}
+.wrapper .checkout h3 {
+  font-size: 35px;
+}
+.wrapper .checkout p {
+  font-size: 1.08rem;
+}
+.wrapper .team {
+  padding-bottom: 150px;
+}
+.wrapper .team h3 {
+  font-size: 35px;
+}
+.wrapper .team p {
+  font-size: 1.07rem;
+}
+.wrapper .bus h3 {
+  font-size: 45px;
+}
+.wrapper .bus {
+  background-color: #eaf6fc;
+  padding-bottom: 150px;
+  padding-top: 150px;
+}
+.wrapper .bus .high {
+  color: #3bb75e;
+}
+.wrapper .bus .first {
+  background-color: white;
+  height: 350px;
+}
+.wrapper .bus .second {
+  background-color: white;
+  height: 350px;
+}
+.wrapper .bus .third {
+  background-color: white;
+  height: 350px;
+}
+.wrapper .try {
+  padding-bottom: 150px;
+}
+.wrapper .try button {
+  background-color: #3bb75e;
+  border: none;
+  border-radius: 0.2rem;
+  height: 50px;
+  width: 220px;
+}
+.wrapper .try p {
+  font-size: 1.2rem;
+}
+.wrapper .try h3 {
+  font-size: 2.7rem;
+}
+.wrapper .try .ton {
+  justify-content: flex-end;
+}
+.wrapper .about {
+  padding-bottom: 90px;
+}
+.wrapper .about ul {
+  list-style-type: none;
+}
+.wrapper .footer ul {
+  list-style-type: none;
+}

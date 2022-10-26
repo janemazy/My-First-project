@@ -1,0 +1,198 @@
+body,
+html {
+  margin: 0px;
+  padding: 0px;
+}
+.wrapper {
+  overflow: hidden;
+  padding-bottom: 120px;
+}
+.wrapper .bold {
+  font-weight: 600 !important;
+}
+.wrapper .choose {
+  white-space: normal;
+  width: 500px;
+}
+.wrapper .company {
+  white-space: normal;
+  width: 500px;
+}
+.wrapper .modern {
+  /* padding-left: 70px; */
+  margin-top: 56px;
+}
+.wrapper .modern .map {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  /* background-color: red; */
+  z-index: -10;
+}
+.wrapper .modern .map .mapp {
+  opacity: 85%;
+}
+.wrapper .modern h1 {
+  /* padding-top: 90px; */
+}
+.wrapper .btn {
+  background-color: #3bb75e;
+  border: none;
+  border-radius: 0.2rem;
+}
+.wrapper .modern button {
+  background-color: #3bb75e;
+  border: none;
+  border-radius: 0.2rem;
+  height: 50px;
+  width: 220px;
+}
+.wrapper .modern .row {
+  padding-top: 210px;
+}
+.wrapper .simple {
+  padding-top: 200px;
+  margin-bottom: 100px;
+}
+.wrapper .simple .easy {
+  font-size: xxx-large;
+}
+.wrapper .experience {
+  padding-bottom: 200px;
+}
+.wrapper .experience .pay {
+  font-size: 2.4rem;
+}
+.wrapper .experience .give {
+  font-size: 1.2rem;
+}
+.wrapper .experience ul {
+  font-size: 500;
+}
+.wrapper .experience .but .high {
+  color: #3bb75e;
+}
+.wrapper .experience .enjoy {
+  font-weight: 700;
+  font-size: xx-large;
+}
+.wrapper .experience .route {
+  letter-spacing: 0.03cm;
+}
+.wrapper .custom {
+  margin-bottom: 200px;
+}
+.wrapper .custom .love {
+  font-size: 20px;
+  padding-top: 20px;
+}
+.wrapper .custom .well {
+  font-size: 2.4rem;
+}
+.wrapper .custom .but .high {
+  color: #3bb75e;
+}
+.wrapper .fraud video {
+  object-fit: contain;
+}
+
+.wrapper .fraud .report {
+  font-size: xx-large;
+  font-weight: 700;
+}
+.wrapper .fraud .detect {
+  font-size: xx-large;
+  font-weight: 700;
+  padding-top: 40px;
+}
+.wrapper .bus {
+  background-color: #eaf6fc;
+  padding-bottom: 150px;
+  padding-top: 150px;
+}
+.wrapper .bus .high {
+  color: #3bb75e;
+}
+.wrapper .bus .first {
+  background-color: white;
+  height: 350px;
+}
+.wrapper .bus .second {
+  background-color: white;
+  height: 350px;
+}
+.wrapper .bus .third {
+  background-color: white;
+  height: 350px;
+}
+.wrapper .powering {
+  margin-top: 150px;
+  margin-bottom: 80px;
+}
+.wrapper .powering .amaze {
+  font-size: 45px;
+}
+.wrapper .logo {
+  margin-bottom: 300px;
+}
+.wrapper .back {
+  margin-bottom: 90px;
+  background: #f9fbfc;
+}
+.wrapper .back .strong {
+  font-size: 2.7rem;
+}
+.wrapper .back .note {
+  font-size: 1.2rem;
+}
+.wrapper .test {
+  padding-bottom: 400px;
+  background: #f9fbfc;
+}
+.wrapper .try {
+  padding-bottom: 150px;
+}
+.wrapper .try button {
+  background-color: #3bb75e;
+  border: none;
+  border-radius: 0.2rem;
+  height: 50px;
+  width: 220px;
+}
+.wrapper .try p {
+  font-size: 1.2rem;
+}
+.wrapper .try h3 {
+  font-size: 2.7rem;
+}
+.wrapper .try .ton {
+  justify-content: flex-end;
+}
+.wrapper .about {
+  padding-bottom: 90px;
+}
+.wrapper .about ul {
+  list-style-type: none;
+}
+.wrapper .footer ul {
+  list-style-type: none;
+}
+
+/* for Desktops anfd Large screens */
+@media screen and (max-width: 1200px) {
+}
+/* for small screens and laptops */
+@media screen and (max-width: 1024px) {
+  .wrapper .modern .row {
+    padding-top: 200px;
+  }
+}
+/* for ipads, tablets */
+@media screen and (max-width: 768px) {
+}
+/* for mobile phones */
+@media screen and (max-width: 480px) {
+  .wrapper .modern .row {
+    padding-top: 80px;
+  }
+}

@@ -1,0 +1,35 @@
+body,
+html {
+  margin: 0px;
+  padding: 0px;
+}
+.wrapper {
+  overflow: hidden;
+  padding-bottom: 120px;
+}
+.wrapper .get {
+  padding-top: 70px;
+  background-color: #eaf6fc;
+}
+.wrapper .get h1 {
+  font-size: 23px;
+}
+.wrapper .general {
+  padding-top: 90px;
+}
+.wrapper .general h4 {
+  font-size: 15px;
+  font-weight: 600;
+}
+.wrapper .recent {
+  padding-top: 100px;
+}
+.wrapper .recent h2 {
+  font-size: 20px;
+}
+.wrapper .recent h4 {
+  font-size: 16px;
+}
+.wrapper .recent p {
+  font-size: 0.9rem;
+}
